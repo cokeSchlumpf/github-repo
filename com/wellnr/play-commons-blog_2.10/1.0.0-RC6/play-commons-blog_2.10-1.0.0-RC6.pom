@@ -38,21 +38,6 @@
             <version>2.2-cj-1.0</version>
         </dependency>
         <dependency>
-            <groupId>com.typesafe.play</groupId>
-            <artifactId>play-slick_2.10</artifactId>
-            <version>0.5.0.8</version>
-        </dependency>
-        <dependency>
-            <groupId>com.typesafe.slick</groupId>
-            <artifactId>slick_2.10</artifactId>
-            <version>1.0.1</version>
-        </dependency>
-        <dependency>
-            <groupId>jp.t2v</groupId>
-            <artifactId>stackable-controller_2.10</artifactId>
-            <version>0.3.0</version>
-        </dependency>
-        <dependency>
             <groupId>org.twitter4j</groupId>
             <artifactId>twitter4j-core</artifactId>
             <version>3.0.5</version>
