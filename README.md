@@ -17,7 +17,7 @@ Maven
 
 Add the following to your pom.xml to use this repository for your maven project:
 
-```
+```XML
 <repositories>
     <!-- ... -->
     <repository>
