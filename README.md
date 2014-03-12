@@ -9,7 +9,7 @@ SBT
 Add the following line to your build.sbt to use this repository:
 
 ```
-"wellnr" at "https://raw.github.com/cokeSchlumpf/mvn-repo/master"
+resolvers += "wellnr" at "https://raw.github.com/cokeSchlumpf/mvn-repo/master"
 ```
 
 Maven
